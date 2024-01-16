@@ -21,9 +21,9 @@
       -->
 
       <iframe
-        src="https://embeds.beehiiv.com/fd7cf25f-285c-46a9-9b2b-a3f06753b25d"
+        src="https://embeds.beehiiv.com/1e4a57c1-cac8-4185-bc88-6aa59f2f95e9"
         data-test-id="beehiiv-embed"
-        width="100%"
+        width="480"
         height="320"
         frameborder="0"
         scrolling="no"
